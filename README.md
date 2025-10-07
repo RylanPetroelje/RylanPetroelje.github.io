@@ -1,4 +1,4 @@
-# About Me
+## About Me
 My name is Rylan Petroelje, and I’m a Junior at Grand Valley State University studying Computer Science with minors in Mathematics and Spanish. I primarily work with Python and C, but I’m also experienced in Bash, Gawk, Sed, SQL, HTML, CSS, JavaScript and Java. I serve on the executive board of the GVSU colony of Triangle Fraternity, a nationally recognized STEM fraternity, where I spend much of my free time collaborating and socializing with the active brothers.
 
 ## Hobbies
