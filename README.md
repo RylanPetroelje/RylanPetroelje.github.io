@@ -13,5 +13,7 @@ The first coding language I learned was C++ at around 14 years old. Since then I
 + [Wave File Reversal in C](https://github.com/RylanPetroelje/CIS343_Project1_SP25)
 + [Discrete Path Finder from Walk in C](https://github.com/RylanPetroelje/mth325-walk-to-path-algorithm)
 + [Hakimi-Havel Validation and Contruction in Python](https://github.com/RylanPetroelje/MTH325-Hakimi-Havel-Validation-and-Contruction)
++ [Clearing Cascading Orbs in C](https://github.com/RylanPetroelje/CIS241-Zuma-Simulator)
++ Automata Fire Theory
 
 [Meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fwyzqv59ytvnd1.jpeg)
